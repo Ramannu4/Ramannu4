@@ -1,10 +1,103 @@
-<h1 align="center">Hi 👋, I'm RamKumar Balusamy</h1>
-<h3 align="center">Pursuing Data Science and Working Hands-On-Projects at Guvi-IITfrom India</h3>
+<h1 align="center">Hi, I'm Ramkumar Balusamy 👋</h1>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="center">
+  <b>Data Science & Analytics · ML Engineer · Dashboard Builder</b><br/>
+  Turning raw data into insight — predictive models, pipelines & visualizations.
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> </p>
+<p align="center">
+  <a href="mailto:ramkumarb8086@gmail.com"><img src="https://img.shields.io/badge/Email-ramkumarb8086%40gmail.com-7fffb2?style=flat-square&logo=gmail&logoColor=white&labelColor=0a0a0f"/></a>
+  <a href="https://linkedin.com"><img src="https://img.shields.io/badge/LinkedIn-Connect-6bceff?style=flat-square&logo=linkedin&logoColor=white&labelColor=0a0a0f"/></a>
+  <img src="https://img.shields.io/badge/Location-Kochi%2C%20Kerala-ff6b6b?style=flat-square&labelColor=0a0a0f"/>
+</p>
 
+-----
+
+## 👤 About Me
+
+- 🏭 **Junior Engineer** at THG Hindu Publishing Pvt. Ltd., Kochi — collecting & analysing real-time industrial printing machinery data
+- 🎓 **Master Data Science** — GUVI–IIT Madras (Dec 2024 – May 2025)
+- 🎓 **B.E. Electronics & Communication Engineering** — Annamalai University (2019–2023)
+- 💡 2+ years experience in data collection, transformation, analysis, dashboards & documentation
+- 🔬 Worked on real-time projects in inventory prediction, spam/fraud detection & healthcare analytics
+
+-----
+
+## 🛠️ Skills
+
+|Category               |Tools & Technologies                                                                     |
+|-----------------------|-----------------------------------------------------------------------------------------|
+|**Programming**        |Python, SQL (Relational DB)                                                              |
+|**Data Analysis & Viz**|Pandas, NumPy, Matplotlib, Seaborn, Plotly, Power BI                                     |
+|**Machine Learning**   |Scikit-learn, Random Forest, Decision Trees, Linear Regression, CNNs, Feature Engineering|
+|**Statistics**         |Hypothesis Testing, A/B Testing, Chi-Square, t-test, F-test, Statistical Inference       |
+|**Big Data & Tools**   |Apache Kafka, Apache Airflow, Deep Learning, NLP, Streamlit                              |
+
+-----
+
+## 💼 Work Experience
+
+### Junior Engineer — THG Hindu Publishing Pvt. Ltd., Kochi
+
+**Oct 2023 – Present**
+
+- Collected real-time industrial printing machinery data (idle & running states) in CSV; applied preprocessing to track performance and predict faults in advance
+- Managed inventory data for critical spares and consumables aligned to production demand
+- Built Power BI dashboards for spares consumption, budget tracking and production-based forecasting
+
+**Stack:** `Python` `SQL` `Pandas` `NumPy` `Power BI`
+
+-----
+
+## 🚀 Projects
+
+### 🚌 RedBus Real-Time Data Pipeline
+
+End-to-end pipeline to extract, store and visualize live bus information from RedBus using Selenium scraping, Kafka streaming and a Streamlit UI for users to explore travel options.
+
+`Python` `Kafka` `Spark` `Selenium` `Streamlit`
+
+-----
+
+### 🛒 Retail Analytics — Electronics Industry
+
+Business intelligence solution to analyze and visualize retail sales data for strategic decision-making in the electronics sector.
+
+`Python` `Pandas` `Matplotlib` `Power BI`
+
+-----
+
+### 📦 Predictive Purchase Order System
+
+Forecasting system that predicts future consumables demand to auto-generate purchase orders — reducing stockouts and cutting procurement costs through ML-driven inventory optimization.
+
+`Python` `Pandas` `Random Forest` `Decision Tree` · Metrics: `MSPE` `Accuracy` `Precision` `Recall`
+
+-----
+
+### 🛡️ Cybersecurity Incident Classifier (Microsoft Data)
+
+Classification model trained on Microsoft’s historical incident data to help Security Operation Centers distinguish true from false positives — improving analyst efficiency.
+
+`Python` `Pandas` `Scikit-learn` `Gradient Boosting` `Random Forest` · Metrics: `MSPE` `Accuracy` `Precision` `Recall`
+
+-----
+
+## 🏅 Certification
+
+- **Master Data Science** — GUVI–IIT Madras · 2025
+
+-----
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=dark&hide_border=true&bg_color=0a0a0f&title_color=7fffb2&icon_color=6bceff&text_color=e8e8f0" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=dark&hide_border=true&bg_color=0a0a0f&title_color=7fffb2&text_color=e8e8f0" height="150"/>
+</p>
+
+-----
+
+<p align="center">
+  <i>📬 Open to Data Science & Analytics opportunities — feel free to reach out!</i>
+</p>
